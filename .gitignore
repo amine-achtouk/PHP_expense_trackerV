@@ -3,3 +3,5 @@
 /src/
 .env
 db.php
+composer.json
+composer.lock
