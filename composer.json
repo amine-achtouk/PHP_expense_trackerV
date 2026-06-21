@@ -1,0 +1,17 @@
+{
+    "name": "kurosaki/expense_tracker",
+    "autoload": {
+        "psr-4": {
+            "Kurosaki\\ExpenseTracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amine-achtouk",
+            "email": "achtoukmohamedamine1@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
